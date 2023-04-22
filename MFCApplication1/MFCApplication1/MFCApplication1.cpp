@@ -16,7 +16,7 @@
 #endif
 
 
-// CMFCApplication1App Commit this file
+// CMFCApplication1App Commit this file for gitub
 
 BEGIN_MESSAGE_MAP(CMFCApplication1App, CWinAppEx)
 	ON_COMMAND(ID_APP_ABOUT, &CMFCApplication1App::OnAppAbout)
